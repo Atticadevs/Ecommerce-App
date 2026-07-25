@@ -1,5 +1,5 @@
 
-import { Product } from "./product";
+import { Product } from "./Product";
 export function ProductsGrid({ products,loadCart }) {
 
 
